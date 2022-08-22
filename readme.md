@@ -5,6 +5,10 @@
 
 ![This is an image](./ss.jfif)
 
+## (video demo)
+
+![This is an image](./project2.gif)
+
 ### As a result of this project, I learn the following:
 [LIVE-LINK](https://project-paytm-clone.netlify.app/)
 
